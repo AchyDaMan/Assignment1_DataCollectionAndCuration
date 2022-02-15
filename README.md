@@ -8,3 +8,4 @@ The APIS I used:
 Pandas (https://pandas.pydata.org/pandas-docs/stable/reference/index.html)
 Wikipedia API (Just website scraping, but I originally used this one: https://pypi.org/project/Wikipedia-API/ . It's not official but I think it's fine)
 
+Go to the data.world page to read about the troubles I had, plus additional information on the data
